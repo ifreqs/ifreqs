@@ -2,6 +2,8 @@
 
 **Early Developer | Economics Student**
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F729&width=435&lines=Hi+there!+I'm+Yusuf;Blockchain+Node+Developer;Rust+%26+JavaScript+Enthusiast;Open-Source+Contributor)](https://git.io/typing-svg)
+
 I’m an Economics student with a passion for technology and Web3.  
 I enjoy building and experimenting with blockchain, smart contracts,  
 and open-source projects — lately focusing on **Rust** and **JavaScript**.
@@ -48,3 +50,12 @@ and open-source projects — lately focusing on **Rust** and **JavaScript**.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ifreqs&theme=radical&hide_border=true)  
 
+---
+
+## 📊 GitHub Stats
+![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifreqs&show_icons=true&theme=radical&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifreqs&layout=compact&theme=radical&hide_border=true)
+
+---
+
+✨ _Profile generated with ❤️ and a bit of Web3 spirit_
