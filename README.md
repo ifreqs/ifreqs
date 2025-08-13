@@ -1,44 +1,41 @@
-# Hi there 👋 I'm Yusuf
+Hi there 👋 I'm Yusuf
 
-**Early Developer | Economics Student**
+Early Developer | Economics Student
 
-I'm an Economics student with a strong interest in technology and software development. Currently, I'm focused on learning and contributing to open-source projects, especially within the Rust ecosystem.
+I’m an Economics student with a passion for technology and Web3. I enjoy building and experimenting with blockchain, smart contracts, and open-source projects — lately focusing on Rust and JavaScript.
 
----
+💡 What I’m into
 
-## 🛠️ Skills
+Blockchain Node Development
 
-**Languages & Tools**
-- Rust
-- JavaScript
-- HTML/CSS
+NFT Collections & Web3 Communities
 
----
+Open-Source Contributions (especially in the Rust ecosystem)
 
-## 🚀 Currently
+🛠️ Languages & Tools
 
-- 🔭 Working on: Blockchain Node Development
-- 🌱 Learning: Rust & JavaScript
+Rust
+JavaScript
+HTML / CSS
 
----
+🚀 Currently
 
-## 😄 Pronouns
+🔭 Working on: Blockchain nodes & crypto community tools
+🌱 Learning: Rust, JavaScript, Solidity
+🎯 Building: NFT collections & Web3 utilities
 
-- Yusuf
+😄 Pronouns
 
----
+He / Him — Yusuf
 
-## 🌐 Connect with Me
+🌐 Connect with Me
 
-- [GitHub](https://github.com/ifreqs)
-- [LinkedIn](#)
-- [Twitter / X](#)
-- [Linktree](#)
+GitHub : https://github.com/ifreqs
+LinkedIn : https://www.linkedin.com/in/yusuf-filizz/
+Twitter / X : https://x.com/0xifreqs
 
----
+🏆 GitHub Highlights
 
-## 🏆 GitHub Highlights
-
-- GitHub Trophies  
-- GitHub Metrics  
-- GitHub Streak Stats
+GitHub Trophies
+GitHub Metrics
+GitHub Streak Stats
